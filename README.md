@@ -37,7 +37,7 @@ Contributions are welcome! If you'd like to contribute to CodingSensei, please f
 5. **Open a Pull Request on GitHub.**
    Please make sure your code adheres to the existing style and passes all tests.
 
-##Contact
+## Contact
 
 For any questions or feedback, feel free to reach out:
 - **Email:**  abooabdulrahman2005@gmail.com
